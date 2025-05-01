@@ -1,5 +1,5 @@
 CandidateSearch README
-License:MIT
+License:None
 
 Description
 This Candidate Searhc application uses TypeScript and REACT to call the GITHub API and renders data in the browser to allow an employer to search candidaates application to hire the best candidates.
